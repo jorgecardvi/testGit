@@ -1,1 +1,5 @@
 text file for the git test
+changes on the original file
+another change
+yet another change..
+enough.
